@@ -3,7 +3,7 @@
 
 const BOT_TOKEN = "8113229796:AAFU5T33YPQrI0__w7ZKZiX176JLMA309MU";
 const BOT_WEBHOOK = "/endpoint";
-const BOT_SECRET = " ";
+const BOT_SECRET = "";
 const BOT_OWNER = 5179682108;
 const BOT_CHANNEL = -1002330520758;
 const SIA_SECRET = "musdNCJKxFDqwd1L0Tqs";
